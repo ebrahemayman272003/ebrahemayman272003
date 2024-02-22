@@ -34,7 +34,7 @@ I used the (Steghide) tool to get hidden data from image of (morgan freeman).
 
 
 
- So now we get the flag.
+ So now we get the (flag) .
  ![Screenshot (81)](https://github.com/ebrahemayman272003/ebrahemayman272003/assets/109435374/f8156f53-ea12-438a-ab34-d50a26d082a5)
 
  Then Submitt it.
